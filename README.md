@@ -10,13 +10,11 @@
 
 <!-- BADGES: perfectly centered, single horizontal row -->
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Java-17-blue?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-<img src="./ui-swing-badge.svg" alt="UI">
-<img src="https://img.shields.io/badge/Platform-Desktop-brightgreen?style=for-the-badge" alt="Platform">
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/JAVA-17-0288D1?style=for-the-badge&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/UI-SWING-9C27B0?style=for-the-badge" alt="UI">
+  <img src="https://img.shields.io/badge/PLATFORM-DESKTOP-7CB342?style=for-the-badge" alt="Platform">
+</p>
 
 <!-- Architecture image: centered in a fixed-width container so badges can align to its left exactly -->
 <div style="max-width:1000px; margin: 0 auto 6px auto; position:relative;">
