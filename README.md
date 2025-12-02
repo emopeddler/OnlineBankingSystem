@@ -18,7 +18,6 @@
   <img src="https://img.shields.io/badge/DESKTOP-brightgreen?style=for-the-badge" />
 </p>
   <!-- second row beneath the first, keeps the same centered alignment -->
-  <div style="margin-top:8px;">
     <span style="display:inline-block; margin:0 8px;"><img src="https://img.shields.io/badge/PLATFORM-grey?style=for-the-badge" alt="Platform"></span>
     <span style="display:inline-block; margin:0 8px;"><img src="https://img.shields.io/badge/DESKTOP-brightgreen?style=for-the-badge" alt="Desktop"></span>
   </div>
