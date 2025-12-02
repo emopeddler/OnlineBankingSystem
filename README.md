@@ -10,27 +10,10 @@
 
 <!-- BADGES: perfectly centered, single horizontal row -->
 <p align="center">
-
-  <!-- JAVA -->
-  <img src="https://img.shields.io/badge/JAVA-303030?style=for-the-badge&labelColor=555555&color=555555" />
-
-  <!-- VERSION 17 -->
-  <img src="https://img.shields.io/badge/17-007bff?style=for-the-badge&labelColor=007bff&color=007bff" />
-
-  <!-- UI WITH ICON -->
-  <img src="https://img.shields.io/badge/%F0%9F%8E%A8%20UI-555555?style=for-the-badge&labelColor=555555&color=555555" />
-
-  <!-- SWING -->
-  <img src="https://img.shields.io/badge/SWING-b300b3?style=for-the-badge&labelColor=b300b3&color=b300b3" />
-
-  <!-- PLATFORM -->
-  <img src="https://img.shields.io/badge/PLATFORM-555555?style=for-the-badge&labelColor=555555&color=555555" />
-
-  <!-- DESKTOP -->
-  <img src="https://img.shields.io/badge/DESKTOP-2ecc71?style=for-the-badge&labelColor=2ecc71&color=2ecc71" />
-
+  <img src="https://img.shields.io/badge/Java-17-blue?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/UI-Swing-purple?style=for-the-badge" alt="UI">
+  <img src="https://img.shields.io/badge/Platform-Desktop-brightgreen?style=for-the-badge" alt="Platform">
 </p>
-
 
 <!-- Architecture image: centered in a fixed-width container so badges can align to its left exactly -->
 <div style="max-width:1000px; margin: 0 auto 6px auto; position:relative;">
