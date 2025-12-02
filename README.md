@@ -8,8 +8,16 @@
 <!-- Title (big, exactly below banner) -->
 <h1 align="center" style="margin: 10px 0 6px 0; font-size:44px; line-height:1.05;">OnlineBankingSystem</h1>
 
-<!-- Badges row: EXACT SEQUENCE (JAVA | 17 | UI | SWING) then next small row (PLATFORM | DESKTOP) -->
-<div style="text-align:center; margin:10px 0 16px 0;">
+<!-- BADGES: perfectly centered, single horizontal row -->
+<p align="center">
+  <img src="https://img.shields.io/badge/JAVA-grey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/17-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UI-grey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SWING-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PLATFORM-grey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DESKTOP-brightgreen?style=for-the-badge" />
+</p>
+
   <!-- first row -->
   <span style="display:inline-block; margin:0 6px;"><img src="https://img.shields.io/badge/JAVA-17-grey?style=for-the-badge" alt="JAVA"></span>
   <span style="display:inline-block; margin:0 6px;"><img src="https://img.shields.io/badge/17-blue?style=for-the-badge" alt="17"></span>
