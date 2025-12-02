@@ -31,7 +31,9 @@
 # 📱 App Demo (GIF Preview)
 
 <p align="center">
-  <img src="assets/demo.gif" alt="App
+  <img src="assets/demo.gif" alt="App Demo GIF" width="800">
+</p>
+
     
 ---
 
