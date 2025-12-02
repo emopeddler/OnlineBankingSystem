@@ -1,9 +1,19 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Online Banking System Banner" width="100%">
+  <!-- BADGES ROW (shows above banner) -->
+  <img src="https://img.shields.io/badge/Java-17-blue?style=for-the-badge&logo=java" alt="Java" />
+  <img src="https://img.shields.io/badge/UI-Swing-purple?style=for-the-badge&logo=appsignal" alt="Swing" />
+  <img src="https://img.shields.io/badge/Platform-Desktop-success?style=for-the-badge&logo=windows" alt="Desktop" />
+  <img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
 <p align="center">
-  <img src="assets/banner1.png" width="100%">
+  <!-- ARCHITECTURE BANNER (centered, full width but limited for readability) -->
+  <img src="assets/banner1.png" alt="Java Online Banking System Architecture" style="max-width:100%; width:900px; height:auto;">
+</p>
+
+<p align="center">
+  <!-- APP DEMO (GIF preview) - place AFTER the banner -->
+  <img src="assets/demo.gif" alt="App Demo GIF" style="max-width:100%; width:720px; height:auto;">
 </p>
 
 
