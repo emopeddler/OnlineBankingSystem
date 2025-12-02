@@ -1,56 +1,45 @@
-<!-- TOP BANNER (full width) -->
-<p align="center" style="margin-top:0">
-  <img src="assets/banner.png" alt="Top Banner" style="max-width:100%; width:100%;">
+<!-- ===== START: Custom header block - paste ONLY this and remove previous header/banner blocks ===== -->
+
+<!-- Top banner (full width) -->
+<p align="center" style="margin:0 0 8px 0;">
+  <img src="assets/banner.png" alt="Top Banner" style="max-width:100%; width:100%; display:block;">
 </p>
 
-<!-- Project title exactly below the banner -->
-<h1 align="center" style="margin: 18px 0 6px 0;">OnlineBankingSystem</h1>
+<!-- Title (big, exactly below banner) -->
+<h1 align="center" style="margin: 10px 0 6px 0; font-size:44px; line-height:1.05;">OnlineBankingSystem</h1>
 
-<!-- Badges row in the same sequence as your phone screenshot.
-     We use two small grouped lines so they appear stacked the same way on wide screens,
-     and keep the order/spacing identical to your phone layout. -->
-<p align="center" style="margin: 8px 0 18px 0;">
-  <img src="https://img.shields.io/badge/JAVA-17-grey?style=for-the-badge" alt="JAVA" />
-  <img src="https://img.shields.io/badge/17-blue?style=for-the-badge" alt="17" />
-  <img src="https://img.shields.io/badge/UI-grey?style=for-the-badge" alt="UI" />
-  <img src="https://img.shields.io/badge/SWING-purple?style=for-the-badge" alt="Swing" />
-</p>
-
-<p align="center" style="margin: 0 0 18px 0;">
-  <img src="https://img.shields.io/badge/PLATFORM-grey?style=for-the-badge" alt="Platform" />
-  <img src="https://img.shields.io/badge/DESKTOP-brightgreen?style=for-the-badge" alt="Desktop" />
-</p>
-
-<hr />
-
-<!-- Architecture image centered and constrained to keep a nice width on desktop -->
-<div style="max-width:1000px; margin: 18px auto 6px auto;">
-  <img src="assets/banner1.png" alt="Architecture Diagram" style="display:block; width:100%; height:auto; border: 6px solid #fff;">
-  <!-- Database badge LEFT-aligned relative to the image (this keeps the badge visually aligned
-       to the left edge of the architecture image just like your phone shot) -->
-  <div style="width:100%; display:flex; justify-content:flex-start; margin-top:12px;">
-    <span style="display:inline-block; margin-left:8px;">
-      <img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-    </span>
+<!-- Badges row: EXACT SEQUENCE (JAVA | 17 | UI | SWING) then next small row (PLATFORM | DESKTOP) -->
+<div style="text-align:center; margin:10px 0 16px 0;">
+  <!-- first row -->
+  <span style="display:inline-block; margin:0 6px;"><img src="https://img.shields.io/badge/JAVA-17-grey?style=for-the-badge" alt="JAVA"></span>
+  <span style="display:inline-block; margin:0 6px;"><img src="https://img.shields.io/badge/17-blue?style=for-the-badge" alt="17"></span>
+  <span style="display:inline-block; margin:0 6px;"><img src="https://img.shields.io/badge/UI-grey?style=for-the-badge" alt="UI"></span>
+  <span style="display:inline-block; margin:0 6px;"><img src="https://img.shields.io/badge/SWING-purple?style=for-the-badge" alt="Swing"></span>
+  <!-- second row beneath the first, keeps the same centered alignment -->
+  <div style="margin-top:8px;">
+    <span style="display:inline-block; margin:0 8px;"><img src="https://img.shields.io/badge/PLATFORM-grey?style=for-the-badge" alt="Platform"></span>
+    <span style="display:inline-block; margin:0 8px;"><img src="https://img.shields.io/badge/DESKTOP-brightgreen?style=for-the-badge" alt="Desktop"></span>
   </div>
 </div>
 
-<hr />
+<hr style="border:none; height:4px; background-color: #2f3640; margin: 10px 0 20px 0;" />
 
-
----
-
-<!-- CENTERED ARCHITECTURE IMAGE (90% Width) -->
-<div align="center">
-  <img src="assets/banner1.png" width="90%" alt="Architecture Diagram">
+<!-- Architecture image: centered in a fixed-width container so badges can align to its left exactly -->
+<div style="max-width:1000px; margin: 0 auto 6px auto; position:relative;">
+  <img src="assets/banner1.png" alt="Architecture Diagram" style="width:100%; height:auto; display:block; border: 6px solid transparent;">
+  <!-- Database badge placed left-aligned relative to the image container -->
+  <div style="display:flex; justify-content:flex-start; width:100%; margin-top:12px;">
+    <!-- tweak margin-left here if you want pixel-perfect nudging (default 6px) -->
+    <div style="margin-left:6px;">
+      <img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+    </div>
+  </div>
 </div>
 
-<!-- BADGE THAT ALIGNS TO THE LEFT EDGE OF THE IMAGE -->
-<div style="width:90%; margin:auto; text-align:left;">
-  <img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-</div>
+<hr style="border:none; height:4px; background-color: #2f3640; margin: 18px 0;" />
 
----
+<!-- ===== END: Custom header block ===== -->
+
 
 
 ## 📑 Table of Contents
