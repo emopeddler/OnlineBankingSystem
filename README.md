@@ -4,8 +4,10 @@
 
 # OnlineBankingSystem
 
+![Language](https://img.shields.io/badge/Language-Java-orange)
+![UI](https://img.shields.io/badge/UI-Swing-blue)
 
-
+---
 
 <p align="center">
   <img src="assets/01_login.png" width="600">
