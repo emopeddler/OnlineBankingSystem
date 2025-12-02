@@ -24,9 +24,8 @@
 
 
 
-![Java](https://img.shields.io/badge/Java-17-blue?style=for-the-badge&logo=java)
-![Swing](https://img.shields.io/badge/UI-Swing-purple?style=for-the-badge&logo=appsignal)
-![Platform](https://img.shields.io/badge/Platform-Desktop-success?style=for-the-badge&logo=windows)
+![SQL](https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 
 
