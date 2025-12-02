@@ -1,37 +1,35 @@
 <p align="center">
-  <img src="assets/banner.png" width="100%" alt="Top Banner">
+  <!-- small decorative top banner -->
+  <img src="assets/banner.png" alt="Project header banner" style="max-width:100%; width:900px; height:auto;">
 </p>
 
 # OnlineBankingSystem
 
+<!-- ONE ROW of badges in exact sequence (centered) -->
 <p align="center">
-  <img src="https://img.shields.io/badge/JAVA-grey?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/17-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/UI-grey?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SWING-purple?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PLATFORM-grey?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DESKTOP-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Java-17-blue?style=for-the-badge&logo=java" alt="Java" />
+  <img src="https://img.shields.io/badge/UI-Swing-purple?style=for-the-badge&logo=appsignal" alt="Swing" />
+  <img src="https://img.shields.io/badge/Platform-Desktop-success?style=for-the-badge&logo=windows" alt="Desktop" />
 </p>
 
 ---
 
+<!-- architecture image centered, constrained width for readability -->
 <p align="center">
-  <img src="assets/banner1.png" width="90%" alt="Architecture Diagram">
+  <img src="assets/banner1.png" alt="Architecture diagram" style="max-width:100%; width:1000px; height:auto;">
 </p>
 
+<!-- MySQL badge CENTERED directly under architecture image (phone-like placement) -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
 ---
 
-# 📑 Table of Contents
+## 📑 Table of Contents
+- [App Demo (GIF Preview)](#app-demo-gif-preview)
 - [Overview](#overview)
 - [Tech Stack](#tech-stack)
-- [App Demo (GIF Preview)](#app-demo-gif-preview)
 - [Application Screenshots](#application-screenshots)
 - [Features](#features)
 - [Project Structure](#project-structure)
@@ -43,28 +41,22 @@
 
 ---
 
-# 📱 App Demo (GIF Preview)
+## 📱 App Demo (GIF Preview)
 
 <p align="center">
-  <img src="assets/demo.gif" width="720">
+  <img src="assets/demo.gif" alt="App demo" style="max-width:100%; width:760px; height:auto;">
 </p>
 
 ---
 
-# 🌐 Overview
-A Java-based **Online Banking System** built using Java Swing and JDBC.
+## 🌐 Overview
 
-It includes:  
-✔ Login authentication  
-✔ Dashboard  
-✔ Transactions  
-✔ Account management  
-✔ PDF export  
-✔ MySQL storage  
+A Java-based **Online Banking System** built with Java Swing and JDBC.  
+Includes login, dashboard, transactions, account management, PDF export and MySQL storage.
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 - Java 17  
 - Swing UI  
 - MySQL  
@@ -73,112 +65,85 @@ It includes:
 
 ---
 
-# 🖼 Application Screenshots
+## 🖼 Application Screenshots
 
-## 🔹 Login & Dashboard  
+### 🔹 Login & Dashboard  
 <p align="center">
-  <img src="assets/01_login.png" width="350">
-  <img src="assets/03_dashboard.png" width="350">
+  <img src="assets/01_login.png" width="350" alt="Login">
+  <img src="assets/03_dashboard.png" width="350" alt="Dashboard">
 </p>
 
-<br>
-
-## 🔹 Deposit & Deposit Success  
+### 🔹 Deposit & Deposit Success  
 <p align="center">
-  <img src="assets/04_deposit.png" width="350">
-  <img src="assets/05_deposit_success.png" width="350">
+  <img src="assets/04_deposit.png" width="350" alt="Deposit">
+  <img src="assets/05_deposit_success.png" width="350" alt="Deposit Success">
 </p>
 
-<br>
-
-## 🔹 Account Details & Transfer  
+### 🔹 Account Details & Transfer  
 <p align="center">
-  <img src="assets/06_account_details.png" width="350">
-  <img src="assets/07_transfer.png" width="350">
+  <img src="assets/06_account_details.png" width="350" alt="Account Details">
+  <img src="assets/07_transfer.png" width="350" alt="Transfer">
 </p>
 
-<br>
-
-## 🔹 Account Statement  
+### 🔹 Account Statement  
 <p align="center">
-  <img src="assets/08_statement.png" width="350">
+  <img src="assets/08_statement.png" width="350" alt="Statement">
 </p>
 
 ---
 
-# ⭐ Features
-- User Login  
-- Interactive Dashboard  
-- Deposit / Withdraw Funds  
-- Money Transfer  
-- Transaction History  
-- Account Details Viewer  
-- PDF Export  
-- Notification Panel  
-
----
-
-# 📁 Project Structure
-
-OnlineBankingSystem/  
-├── src/com/bank/system/  
-├── assets/  
-├── sql/bank_db.sql  
-├── README.md  
-└── .gitignore  
-
----
-
-# 🗄️ Database Setup
-
-1. Open **MySQL Workbench / phpMyAdmin**  
-2. Run `sql/bank_db.sql`  
-3. Update DB credentials in:  
-   `src/com/bank/system/DBConnection.java`
-
----
-
-# ▶️ How to Run
-
-1. Install **JDK 11 or above**  
-2. Open project in **IntelliJ IDEA**  
-3. Add MySQL Connector/J  
-4. Run `Main.java`  
-
----
-
-# 📝 Release Notes – v1.0 (Student Project)
-
-### ✔ Completed  
-- Login + Dashboard  
+## ⭐ Features
+- Login system  
+- Interactive dashboard  
 - Deposit / Withdraw / Transfer  
-- Account Details  
-- Transaction History  
-- PDF Export  
-- MySQL Connectivity  
-
-### ✔ Improvements  
-- Cleaner layout  
-- Input validation fixes  
-- Faster navigation  
-
-### ✔ Optional Future Updates  
-- Dark Mode  
-- Animated UI  
-- Encrypted passwords  
+- Transaction history  
+- Account details viewer  
+- PDF statement export  
+- Notification panel  
 
 ---
 
-# 👨‍💻 Author  
-**SUMIT KAUSHAL**  
-BTech CSE – 3rd Semester, Galgotias University  
+## 📁 Project Structure
+OnlineBankingSystem/
+├── src/com/bank/system/ # Java source code
+├── assets/ # Screenshots / GIF / Images
+├── sql/bank_db.sql # Database schema
+├── README.md # Documentation
+└── .gitignore
 
 ---
 
-# 🤝 Connect With Me  
+## 🗄️ Database Setup
+1. Open **MySQL Workbench / phpMyAdmin**  
+2. Run SQL script: `sql/bank_db.sql`  
+3. Update DB credentials: `src/com/bank/system/DBConnection.java`
+
+---
+
+## ▶️ How to Run
+1. Install **JDK 11+**  
+2. Open project in **IntelliJ IDEA**  
+3. Add MySQL Connector/J to libraries  
+4. Run `Main.java`
+
+---
+
+## 📝 Release Notes — v1.0 (Student Project)
+**Completed**: Login, Dashboard, Deposit/Withdraw/Transfer, Transaction history, PDF export, MySQL connectivity.  
+**Improvements**: cleaner UI, input validation fixes, smoother navigation.  
+**Optional future**: Dark mode, animated UI, encrypted passwords.
+
+---
+
+## 👨‍💻 Author
+**SUMIT KAUSHAL** — BTech CSE, 3rd Semester, Galgotias University
+
+---
+
+## 🤝 Connect With Me
 <p align="center">
   <a href="https://github.com/emopeddler">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
