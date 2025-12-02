@@ -8,30 +8,51 @@
   <img src="https://img.shields.io/badge/Java-17-blue?style=for-the-badge&logo=java" />
   <img src="https://img.shields.io/badge/UI-Swing-purple?style=for-the-badge&logo=appsignal" />
   <img src="https://img.shields.io/badge/Platform-Desktop-success?style=for-the-badge&logo=windows" />
-</p>
-
----
-
-<p align="center">
-  <img src="assets/banner1.png" alt="Java Online Banking System Architecture" width="100%">
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ---
 
-## 🛠️ Tech Stack
-- **Java 17**
-- **Swing (GUI)**
-- **JDBC**
-- **MySQL Database**
-- **Desktop Application**
+# 📚 Table of Contents
+- [Overview](#-overview)  
+- [Features](#-features)  
+- [Tech Stack](#-tech-stack)  
+- [Application Screenshots](#-application-screenshots)  
+- [Project Structure](#-project-structure)  
+- [Database Setup](#-database-setup)  
+- [How to Run](#️-how-to-run)  
+- [Release Notes](#-release-notes)  
+- [Author](#-author)  
 
 ---
 
-## 📸 Application Screenshots
+# 🎥 App Demo (GIF Preview)
+<p align="center">
+  <img src="assets/demo.gif" width="600" alt="App Demo GIF">
+</p>
+
+> ⚠️ *Bro, just export a screen recording (5s GIF) and save it as `assets/demo.gif` — it will automatically load here.*
+
+---
+
+# 🧠 Overview  
+
+A Java-based **Online Banking System** created using Java Swing and JDBC.
+
+It includes login authentication, dashboard UI, account management, fund transfers, PDF statements, and MySQL database storage.
+
+---
+
+# ⚙️ Tech Stack  
+- Java 17  
+- Swing UI  
+- MySQL  
+- JDBC  
+- PDF Export  
+
+---
+
+# 📸 Application Screenshots  
 
 <div align="center">
 
@@ -54,21 +75,12 @@
 
 ---
 
-## 📌 Overview
-
-A Java-based **Online Banking System** created using Java Swing and JDBC.
-
-It features a login system, user dashboard, transactions, account management, and data storage using a MySQL database.
-
----
-
-## 🚀 Features
+# 🚀 Features  
 
 - User Login  
 - Interactive Dashboard  
-- Deposit Funds  
-- Withdraw Cash  
-- Transfer Money  
+- Deposit / Withdraw Funds  
+- Money Transfer  
 - Transaction History  
 - Account Details Viewer  
 - PDF Statement Export  
@@ -76,45 +88,63 @@ It features a login system, user dashboard, transactions, account management, an
 
 ---
 
-  
-
----
-
-## 📁 Project Structure  
+# 📁 Project Structure  
 
 OnlineBankingSystem/
-│
-├── src/com/bank/system/      # Java source code  
-├── assets/                   # Screenshots / Images  
-├── sql/bank_db.sql           # Database schema  
-├── README.md                 # Project documentation  
-└── .gitignore  
+├── src/com/bank/system/ # Java source code
+├── assets/ # Screenshots / Images / GIF
+├── sql/bank_db.sql # Database schema
+├── README.md # Documentation
+└── .gitignore
 
 ---
 
-## 🗄️ Database Setup  
+# 🗄️ Database Setup  
 
-1. Open **MySQL Workbench / phpMyAdmin**  
-2. Run the SQL script  
-3. Update your DB credentials in `DBConnection.java`
-
----
-
-## ▶️ How to Run  
-
-1. Install **JDK 11 or above**  
-2. Open the project in **IntelliJ IDEA**  
-3. Add MySQL Connector/J in libraries  
-4. Run  
+1. Open **MySQL Workbench / phpMyAdmin**
+2. Run the SQL script inside `/sql/bank_db.sql`
+3. Update your database credentials in:
+src/com/bank/system/database/DBConnection.java
 
 ---
 
-## 👨‍💻 Author  
+# ▶️ How to Run  
+
+1. Install **JDK 11 or above**
+2. Open project in **IntelliJ IDEA**
+3. Add **MySQL Connector/J** to project libraries
+4. Run the **Main class**  
+
+---
+
+# 📝 Release Notes  
+
+### 🔖 v1.0 — Initial Release
+- Complete Swing UI
+- Full MySQL Integration
+- Login + Dashboard + Transactions
+- PDF Export
+- Bug fixes & performance upgrades
+
+> Future updates: Dark mode, animated UI, encrypted password storage.
+
+---
+
+# 👨‍💻 Author  
 
 **SUMIT KAUSHAL**  
 BTech CSE, **3rd Semester**, Galgotias University  
 
 ---
 
+# 🌐 Connect With Me
 
+<p align="center">
+  <a href="https://github.com/emopeddler"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</p>
 
+---
+
+<p align="center">Made with ❤️ by Sumit Kaushal</p>
