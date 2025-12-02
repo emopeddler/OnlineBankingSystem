@@ -76,31 +76,66 @@ It features a login system, user dashboard, transactions, account management, an
 
 ---
 
-## 📸 Screenshots
+---
 
-### 🔹 Login Screen  
-![Login](assets/01_login.png)
+## 📌 Overview  
 
-### 🔹 Login Successful  
-![Login Success](assets/02_login_success.png)
+A Java-based **Online Banking System** created using Java Swing and JDBC.
 
-### 🔹 Dashboard  
-![Dashboard](assets/03_dashboard.png)
+It features a login system, user dashboard, transactions, account management, and data storage using a MySQL database.
 
-### 🔹 Deposit Funds  
-![Deposit](assets/04_deposit.png)
+---
 
-### 🔹 Deposit Successful  
-![Deposit Success](assets/05_deposit_success.png)
+## 🚀 Features  
 
-### 🔹 Account Details  
-![Account Details](assets/06_account_details.png)
+- User Login  
+- Interactive Dashboard  
+- Deposit Funds  
+- Withdraw Cash  
+- Transfer Money  
+- Transaction History  
+- Account Details Viewer  
+- PDF Statement Export  
+- Notifications Panel  
 
-### 🔹 Money Transfer  
-![Transfer](assets/07_transfer.png)
+---
 
-### 🔹 Account Statement  
-![Statement](assets/08_statement.png)
+## 📁 Project Structure  
+
+OnlineBankingSystem/
+│
+├── src/com/bank/system/      # Java source code  
+├── assets/                   # Screenshots / Images  
+├── sql/bank_db.sql           # Database schema  
+├── README.md                 # Project documentation  
+└── .gitignore  
+
+---
+
+## 🗄️ Database Setup  
+
+1. Open **MySQL Workbench / phpMyAdmin**  
+2. Run the SQL script  
+3. Update your DB credentials in `DBConnection.java`
+
+---
+
+## ▶️ How to Run  
+
+1. Install **JDK 11 or above**  
+2. Open the project in **IntelliJ IDEA**  
+3. Add MySQL Connector/J in libraries  
+4. Run  
+
+---
+
+## 👨‍💻 Author  
+
+**SUMIT KAUSHAL**  
+BTech CSE, **3rd Semester**, Galgotias University  
+
+---
+
 
 ---
 ## 📁 Project Structure
