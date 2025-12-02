@@ -5,24 +5,31 @@
 # OnlineBankingSystem
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-17-blue?style=for-the-badge&logo=java" />
-  <img src="https://img.shields.io/badge/UI-Swing-purple?style=for-the-badge&logo=appsignal" />
-  <img src="https://img.shields.io/badge/Platform-Desktop-brightgreen?style=for-the-badge&logo=windows" />
+  <img src="https://img.shields.io/badge/JAVA-grey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/17-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UI-grey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SWING-purple?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PLATFORM-grey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DESKTOP-brightgreen?style=for-the-badge" />
 </p>
 
 ---
 
-<!-- ARCHITECTURE IMAGE CENTER -->
-<p align="center">
+<!-- CENTERED ARCHITECTURE IMAGE (90% Width) -->
+<div align="center">
   <img src="assets/banner1.png" width="90%" alt="Architecture Diagram">
-</p>
+</div>
 
-<!-- MYSQL BADGE LEFT-CENTER (THIS FIXES YOUR LAYOUT) -->
+<!-- BADGE THAT ALIGNS TO THE LEFT EDGE OF THE IMAGE -->
 <div style="width:90%; margin:auto; text-align:left;">
   <img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 
 ---
+
 
 ## 📑 Table of Contents
 - [App Demo (GIF Preview)](#app-demo-gif-preview)
