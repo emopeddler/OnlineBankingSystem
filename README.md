@@ -1,4 +1,9 @@
-\# OnlineBankingSystem
+<p align="center">
+  <img src="assets/banner.png" alt="Online Banking System Banner" width="100%">
+</p>
+
+# OnlineBankingSystem
+
 
 
 
