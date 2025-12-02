@@ -12,22 +12,22 @@
 <p align="center">
 
   <!-- JAVA -->
-  <img src="https://img.shields.io/badge/JAVA-FFFFFF?style=for-the-badge&color=555555">
+  <img src="https://img.shields.io/badge/JAVA-303030?style=for-the-badge&labelColor=555555&color=555555" />
 
-  <!-- VERSION -->
-  <img src="https://img.shields.io/badge/17-FFFFFF?style=for-the-badge&color=0078D7">
+  <!-- VERSION 17 -->
+  <img src="https://img.shields.io/badge/17-007bff?style=for-the-badge&labelColor=007bff&color=007bff" />
 
-  <!-- UI -->
-  <img src="https://img.shields.io/badge/%F0%9F%94%8E%20UI-FFFFFF?style=for-the-badge&color=555555">
+  <!-- UI WITH ICON -->
+  <img src="https://img.shields.io/badge/%F0%9F%8E%A8%20UI-555555?style=for-the-badge&labelColor=555555&color=555555" />
 
   <!-- SWING -->
-  <img src="https://img.shields.io/badge/SWING-FFFFFF?style=for-the-badge&color=9B00B0">
+  <img src="https://img.shields.io/badge/SWING-b300b3?style=for-the-badge&labelColor=b300b3&color=b300b3" />
 
   <!-- PLATFORM -->
-  <img src="https://img.shields.io/badge/PLATFORM-FFFFFF?style=for-the-badge&color=555555">
+  <img src="https://img.shields.io/badge/PLATFORM-555555?style=for-the-badge&labelColor=555555&color=555555" />
 
   <!-- DESKTOP -->
-  <img src="https://img.shields.io/badge/DESKTOP-FFFFFF?style=for-the-badge&color=32CD32">
+  <img src="https://img.shields.io/badge/DESKTOP-2ecc71?style=for-the-badge&labelColor=2ecc71&color=2ecc71" />
 
 </p>
 
