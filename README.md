@@ -76,27 +76,7 @@ It features a login system, user dashboard, transactions, account management, an
 
 ---
 
----
-
-## 📌 Overview  
-
-A Java-based **Online Banking System** created using Java Swing and JDBC.
-
-It features a login system, user dashboard, transactions, account management, and data storage using a MySQL database.
-
----
-
-## 🚀 Features  
-
-- User Login  
-- Interactive Dashboard  
-- Deposit Funds  
-- Withdraw Cash  
-- Transfer Money  
-- Transaction History  
-- Account Details Viewer  
-- PDF Statement Export  
-- Notifications Panel  
+  
 
 ---
 
