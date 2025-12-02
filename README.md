@@ -1,33 +1,32 @@
-<!-- 1) GITHUB DEFAULT TOP BANNER (automatic, no code needed) -->
-
+<p align="center">
+  <img src="assets/banner.png" width="100%" alt="Top Banner">
+</p>
 
 # OnlineBankingSystem
-<!-- 2) PROJECT TITLE -->
 
 <p align="center">
-  <!-- 3) FIRST BADGE ROW -->
-  <img src="https://img.shields.io/badge/Java-17-blue?style=for-the-badge&logo=java" />
-  <img src="https://img.shields.io/badge/UI-Swing-purple?style=for-the-badge&logo=appsignal" />
-  <img src="https://img.shields.io/badge/Platform-Desktop-success?style=for-the-badge&logo=windows" />
+  <img src="https://img.shields.io/badge/JAVA-grey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/17-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UI-grey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SWING-purple?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PLATFORM-grey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DESKTOP-brightgreen?style=for-the-badge" />
 </p>
 
 ---
 
-<!-- 4) GREY LINE ABOVE ARCHITECTURE -->
-
 <p align="center">
-  <!-- 5) ARCHITECTURE BANNER -->
-  <img src="assets/banner1.png" width="100%" alt="Architecture Banner">
+  <img src="assets/banner1.png" width="90%" alt="Architecture Diagram">
 </p>
 
 <p align="center">
-  <!-- 6) MYSQL BADGE BELOW ARCHITECT IMAGE -->
-  <img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
 
 ---
-
-<!-- 7) GREY LINE BELOW MYSQL -->
 
 # 📑 Table of Contents
 - [Overview](#overview)
@@ -45,18 +44,23 @@
 ---
 
 # 📱 App Demo (GIF Preview)
-<!-- 9) GIF AFTER TABLE OF CONTENTS -->
 
 <p align="center">
-  <img src="assets/demo.gif" width="720" alt="Demo GIF">
+  <img src="assets/demo.gif" width="720">
 </p>
 
 ---
 
 # 🌐 Overview
-A Java-based **Online Banking System** created using Java Swing and JDBC.
+A Java-based **Online Banking System** built using Java Swing and JDBC.
 
-It includes authentication, dashboard UI, transactions, account management, PDF export, and MySQL storage.
+It includes:  
+✔ Login authentication  
+✔ Dashboard  
+✔ Transactions  
+✔ Account management  
+✔ PDF export  
+✔ MySQL storage  
 
 ---
 
@@ -71,25 +75,31 @@ It includes authentication, dashboard UI, transactions, account management, PDF 
 
 # 🖼 Application Screenshots
 
-### 🔹 Login & Dashboard  
+## 🔹 Login & Dashboard  
 <p align="center">
   <img src="assets/01_login.png" width="350">
   <img src="assets/03_dashboard.png" width="350">
 </p>
 
-### 🔹 Deposit & Deposit Success  
+<br>
+
+## 🔹 Deposit & Deposit Success  
 <p align="center">
   <img src="assets/04_deposit.png" width="350">
   <img src="assets/05_deposit_success.png" width="350">
 </p>
 
-### 🔹 Account Details & Transfer  
+<br>
+
+## 🔹 Account Details & Transfer  
 <p align="center">
   <img src="assets/06_account_details.png" width="350">
   <img src="assets/07_transfer.png" width="350">
 </p>
 
-### 🔹 Account Statement  
+<br>
+
+## 🔹 Account Statement  
 <p align="center">
   <img src="assets/08_statement.png" width="350">
 </p>
@@ -97,55 +107,71 @@ It includes authentication, dashboard UI, transactions, account management, PDF 
 ---
 
 # ⭐ Features
-- Login system  
-- Interactive dashboard  
-- Deposit / Withdraw  
-- Transfer money  
-- View history  
-- Account details viewer  
-- PDF statements  
-- Notifications panel  
+- User Login  
+- Interactive Dashboard  
+- Deposit / Withdraw Funds  
+- Money Transfer  
+- Transaction History  
+- Account Details Viewer  
+- PDF Export  
+- Notification Panel  
 
 ---
 
 # 📁 Project Structure
 
-OnlineBankingSystem/
-├── src/com/bank/system/
-├── assets/
-├── sql/bank_db.sql
-├── README.md
-└── .gitignore
+OnlineBankingSystem/  
+├── src/com/bank/system/  
+├── assets/  
+├── sql/bank_db.sql  
+├── README.md  
+└── .gitignore  
 
 ---
 
 # 🗄️ Database Setup
+
 1. Open **MySQL Workbench / phpMyAdmin**  
 2. Run `sql/bank_db.sql`  
-3. Update DB credentials in `DBConnection.java`  
+3. Update DB credentials in:  
+   `src/com/bank/system/DBConnection.java`
 
 ---
 
 # ▶️ How to Run
-1. Install **JDK 11+**  
+
+1. Install **JDK 11 or above**  
 2. Open project in **IntelliJ IDEA**  
 3. Add MySQL Connector/J  
 4. Run `Main.java`  
 
 ---
 
-# 📝 Release Notes
+# 📝 Release Notes – v1.0 (Student Project)
 
-### 🎓 v1.0 — Student Project Release
-**Completed:** Login, Dashboard, Transactions, PDF export, MySQL connectivity  
-**Improvements:** Cleaner UI, fixed validation, smoother navigation  
-**Upcoming:** Dark mode, animated UI, password encryption  
+### ✔ Completed  
+- Login + Dashboard  
+- Deposit / Withdraw / Transfer  
+- Account Details  
+- Transaction History  
+- PDF Export  
+- MySQL Connectivity  
+
+### ✔ Improvements  
+- Cleaner layout  
+- Input validation fixes  
+- Faster navigation  
+
+### ✔ Optional Future Updates  
+- Dark Mode  
+- Animated UI  
+- Encrypted passwords  
 
 ---
 
-# 👨‍💻 Author
+# 👨‍💻 Author  
 **SUMIT KAUSHAL**  
-BTech CSE — 3rd Semester — Galgotias University  
+BTech CSE – 3rd Semester, Galgotias University  
 
 ---
 
