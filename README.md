@@ -31,10 +31,9 @@
 # 📱 App Demo (GIF Preview)
 
 <p align="center">
-  <img src="assets/demo.gif" alt="App Demo GIF" width="800">
+  <img src="assets/demo.gif" width="750" alt="App Demo GIF">
 </p>
 
-    
 ---
 
 # 🌐 Overview
@@ -62,17 +61,23 @@ It includes secure login authentication, dashboard UI, account management, fund 
   <img src="assets/03_dashboard.png" width="350">
 </p>
 
+<br>
+
 ## 🔹 Deposit & Deposit Success  
 <p align="center">
   <img src="assets/04_deposit.png" width="350">
   <img src="assets/05_deposit_success.png" width="350">
 </p>
 
+<br>
+
 ## 🔹 Account Details & Transfer  
 <p align="center">
   <img src="assets/06_account_details.png" width="350">
   <img src="assets/07_transfer.png" width="350">
 </p>
+
+<br>
 
 ## 🔹 Account Statement  
 <p align="center">
@@ -94,6 +99,7 @@ It includes secure login authentication, dashboard UI, account management, fund 
 ---
 
 # 📁 Project Structure  
+
 OnlineBankingSystem/
 │
 ├── src/com/bank/system/ # Java source code
@@ -101,9 +107,6 @@ OnlineBankingSystem/
 ├── sql/bank_db.sql # Database schema
 ├── README.md # Documentation
 └── .gitignore
-
-yaml
-Copy code
 
 ---
 
@@ -143,10 +146,10 @@ Copy code
 - Fixed input validation issues  
 - Smoother navigation between screens  
 
-### ✔ Upcoming (optional)  
+### ✔ Upcoming (Optional)  
 - Dark Mode  
 - Animated UI  
-- Password encryption  
+- Password Encryption  
 
 ---
 
@@ -157,6 +160,7 @@ BTech CSE, 3rd Semester, Galgotias University
 ---
 
 # 🤝 Connect With Me  
+
 <p align="center">
   <a href="https://github.com/emopeddler">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -164,3 +168,4 @@ BTech CSE, 3rd Semester, Galgotias University
 </p>
 
 <p align="center">Made by Sumit Kaushal</p>
+
