@@ -10,19 +10,15 @@
 
 <!-- BADGES: perfectly centered, single horizontal row -->
 <p align="center">
-
-  <!-- TOP ROW -->
-  <span style="background:#5A5A5A; padding:8px 18px; border-radius:4px; color:white; font-family:Arial; margin-right:5px;">JAVA</span>
-  <span style="background:#008CDB; padding:8px 18px; border-radius:4px; color:white; font-family:Arial; margin-right:5px;">17</span>
-  <span style="background:#5A5A5A; padding:8px 18px; border-radius:4px; color:white; font-family:Arial; margin-right:5px;">UI</span>
-  <span style="background:#9C00A7; padding:8px 18px; border-radius:4px; color:white; font-family:Arial;">SWING</span>
-
+  <!-- top row -->
+  <img src="https://img.shields.io/badge/JAVA-17-5A5A5A?style=flat-square&logo=java&logoColor=white" width="96" alt="JAVA" />
+  <img src="https://img.shields.io/badge/17-17-008CDB?style=flat-square&logo=java&logoColor=white" width="64" alt="17" />
+  <img src="https://img.shields.io/badge/UI-Swing-5A5A5A?style=flat-square" width="96" alt="UI" />
+  <img src="https://img.shields.io/badge/SWING-9C00A7?style=flat-square" width="96" alt="SWING" />
   <br><br>
-
-  <!-- BOTTOM ROW -->
-  <span style="background:#5A5A5A; padding:8px 18px; border-radius:4px; color:white; font-family:Arial; margin-right:5px;">PLATFORM</span>
-  <span style="background:#38D100; padding:8px 18px; border-radius:4px; color:white; font-family:Arial;">DESKTOP</span>
-
+  <!-- bottom row -->
+  <img src="https://img.shields.io/badge/PLATFORM-5A5A5A?style=flat-square" width="140" alt="PLATFORM" />
+  <img src="https://img.shields.io/badge/DESKTOP-38D100?style=flat-square" width="140" alt="DESKTOP" />
 </p>
 
 <!-- Architecture image: centered in a fixed-width container so badges can align to its left exactly -->
