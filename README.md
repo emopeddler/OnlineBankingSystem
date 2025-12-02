@@ -12,22 +12,18 @@
 <p align="center">
 
   <!-- TOP ROW -->
-  <img src="https://img.shields.io/badge/JAVA-FFFFFF?style=flat&labelColor=5A5A5A&color=5A5A5A" />
-  <img src="https://img.shields.io/badge/17-FFFFFF?style=flat&labelColor=008CDB&color=008CDB" />
-  <img src="https://img.shields.io/badge/UI-FFFFFF?style=flat&labelColor=5A5A5A&color=5A5A5A" />
-  <img src="https://img.shields.io/badge/SWING-FFFFFF?style=flat&labelColor=9C00A7&color=9C00A7" />
+  <span style="background:#5A5A5A; padding:8px 18px; border-radius:4px; color:white; font-family:Arial; margin-right:5px;">JAVA</span>
+  <span style="background:#008CDB; padding:8px 18px; border-radius:4px; color:white; font-family:Arial; margin-right:5px;">17</span>
+  <span style="background:#5A5A5A; padding:8px 18px; border-radius:4px; color:white; font-family:Arial; margin-right:5px;">UI</span>
+  <span style="background:#9C00A7; padding:8px 18px; border-radius:4px; color:white; font-family:Arial;">SWING</span>
 
   <br><br>
 
   <!-- BOTTOM ROW -->
-  <img src="https://img.shields.io/badge/PLATFORM-FFFFFF?style=flat&labelColor=5A5A5A&color=5A5A5A" />
-  <img src="https://img.shields.io/badge/DESKTOP-FFFFFF?style=flat&labelColor=38D100&color=38D100" />
+  <span style="background:#5A5A5A; padding:8px 18px; border-radius:4px; color:white; font-family:Arial; margin-right:5px;">PLATFORM</span>
+  <span style="background:#38D100; padding:8px 18px; border-radius:4px; color:white; font-family:Arial;">DESKTOP</span>
 
 </p>
-
-  <!-- second row beneath the first, keeps the same centered alignment -->
-
-<hr style="border:none; height:4px; background-color: #2f3640; margin: 10px 0 20px 0;" />
 
 <!-- Architecture image: centered in a fixed-width container so badges can align to its left exactly -->
 <div style="max-width:1000px; margin: 0 auto 6px auto; position:relative;">
