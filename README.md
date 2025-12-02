@@ -118,13 +118,41 @@ src/com/bank/system/database/DBConnection.java
 
 # 📝 Release Notes  
 
-### 🔖 v1.0 — Initial Release
-- Complete Swing UI
-- Full MySQL Integration
-- Login + Dashboard + Transactions
-- PDF Export
-- Bug fixes & performance upgrades
+🎉 v1.0 — Project Completion Release
 
+This version includes all the main features required for the Online Banking System Java project.
+
+✔️ Features Completed
+
+Basic Login System
+
+Interactive User Dashboard
+
+Deposit, Withdraw & Transfer Functions
+
+Transaction History View
+
+Account Details Page
+
+PDF Statement Export
+
+MySQL Database Setup & Connectivity
+
+✨ Improvements Made
+
+UI layout cleanup
+
+Fixed input validation issues
+
+Smoother navigation between screens
+
+🚀 Future Enhancements (If required)
+
+Dark mode UI
+
+Better animations for buttons
+
+Encrypting stored passwords
 > Future updates: Dark mode, animated UI, encrypted password storage.
 
 ---
