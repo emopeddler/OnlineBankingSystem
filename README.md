@@ -155,4 +155,4 @@ BTech CSE, **3rd Semester**, Galgotias University
   </a>
 </p>
 
-<p align="center">Made with ❤️ by Sumit Kaushal</p>
+<p align="center">Made by Sumit Kaushal</p>
