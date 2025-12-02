@@ -2,6 +2,11 @@
   <img src="assets/banner.png" alt="Online Banking System Banner" width="100%">
 </p>
 
+<p align="center">
+  <img src="assets/banner1.png" width="100%">
+</p>
+
+
 # OnlineBankingSystem
 
 <p align="center">
