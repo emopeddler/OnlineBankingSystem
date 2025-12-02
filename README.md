@@ -10,13 +10,21 @@
 
 <!-- BADGES: perfectly centered, single horizontal row -->
 <p align="center">
-  <img src="https://img.shields.io/badge/JAVA-grey?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/17-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/UI-grey?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SWING-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PLATFORM-grey?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DESKTOP-brightgreen?style=for-the-badge" />
+
+  <!-- TOP ROW -->
+  <img src="https://img.shields.io/badge/JAVA-FFFFFF?style=flat&labelColor=5A5A5A&color=5A5A5A" />
+  <img src="https://img.shields.io/badge/17-FFFFFF?style=flat&labelColor=008CDB&color=008CDB" />
+  <img src="https://img.shields.io/badge/UI-FFFFFF?style=flat&labelColor=5A5A5A&color=5A5A5A" />
+  <img src="https://img.shields.io/badge/SWING-FFFFFF?style=flat&labelColor=9C00A7&color=9C00A7" />
+
+  <br><br>
+
+  <!-- BOTTOM ROW -->
+  <img src="https://img.shields.io/badge/PLATFORM-FFFFFF?style=flat&labelColor=5A5A5A&color=5A5A5A" />
+  <img src="https://img.shields.io/badge/DESKTOP-FFFFFF?style=flat&labelColor=38D100&color=38D100" />
+
 </p>
+
   <!-- second row beneath the first, keeps the same centered alignment -->
 
 <hr style="border:none; height:4px; background-color: #2f3640; margin: 10px 0 20px 0;" />
