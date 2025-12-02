@@ -2,7 +2,6 @@
   <img src="assets/banner.png" alt="Java Online Banking System Architecture" width="100%">
 </p>
 
-
 # OnlineBankingSystem
 
 <p align="center">
@@ -11,27 +10,26 @@
   <img src="https://img.shields.io/badge/Platform-Desktop-success?style=for-the-badge&logo=windows" />
 </p>
 
-
 ---
 
 <p align="center">
   <img src="assets/banner1.png" alt="Java Online Banking System Architecture" width="100%">
 </p>
 
-
-
-
-
-
-
-![SQL](https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-
-
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
 ---
 
+## 🛠️ Tech Stack
+- **Java 17**
+- **Swing (GUI)**
+- **JDBC**
+- **MySQL Database**
+- **Desktop Application**
+
+---
 
 ## 📸 Application Screenshots
 
@@ -56,174 +54,89 @@
 
 ---
 
+## 📌 Overview
 
-\## 📌 Overview  
-
-A Java-based \*\*Online Banking System\*\* created using Java Swing and JDBC.  
+A Java-based **Online Banking System** created using Java Swing and JDBC.
 
 It features a login system, user dashboard, transactions, account management, and data storage using a MySQL database.
 
+---
 
+## 🚀 Features
+
+- User Login  
+- Interactive Dashboard  
+- Deposit Funds  
+- Withdraw Cash  
+- Transfer Money  
+- Transaction History  
+- Account Details Viewer  
+- PDF Statement Export  
+- Notifications Panel  
 
 ---
 
+## 📸 Screenshots
 
+### 🔹 Login Screen  
+![Login](assets/01_login.png)
 
-\## 🚀 Features  
+### 🔹 Login Successful  
+![Login Success](assets/02_login_success.png)
 
-\- User Login  
+### 🔹 Dashboard  
+![Dashboard](assets/03_dashboard.png)
 
-\- Interactive Dashboard  
+### 🔹 Deposit Funds  
+![Deposit](assets/04_deposit.png)
 
-\- Deposit Funds  
+### 🔹 Deposit Successful  
+![Deposit Success](assets/05_deposit_success.png)
 
-\- Withdraw Cash  
+### 🔹 Account Details  
+![Account Details](assets/06_account_details.png)
 
-\- Transfer Money  
+### 🔹 Money Transfer  
+![Transfer](assets/07_transfer.png)
 
-\- Transaction History  
-
-\- Account Details Viewer  
-
-\- PDF Statement Export  
-
-\- Notifications Panel  
-
-
-
----
-
-
-
-\## 📸 Screenshots  
-
-
-
-\### 🔹 Login Screen  
-
-!\[Login](assets/01\_login.png)
-
-
-
-\### 🔹 Login Successful  
-
-!\[Login Success](assets/02\_login\_success.png)
-
-
-
-\### 🔹 Dashboard  
-
-!\[Dashboard](assets/03\_dashboard.png)
-
-
-
-\### 🔹 Deposit Funds  
-
-!\[Deposit](assets/04\_deposit.png)
-
-
-
-\### 🔹 Deposit Successful  
-
-!\[Deposit Success](assets/05\_deposit\_success.png)
-
-
-
-\### 🔹 Account Details  
-
-!\[Account Details](assets/06\_account\_details.png)
-
-
-
-\### 🔹 Money Transfer  
-
-!\[Transfer](assets/07\_transfer.png)
-
-
-
-\### 🔹 Account Statement  
-
-!\[Statement](assets/08\_statement.png)
-
-
+### 🔹 Account Statement  
+![Statement](assets/08_statement.png)
 
 ---
-
-
-
-\## 📁 Project Structure  
+## 📁 Project Structure
 
 OnlineBankingSystem/
-
 │
-
 ├── src/com/bank/system/ # Java source code
-
 ├── assets/ # Screenshots / Images
-
-├── sql/bank\_db.sql # Database schema
-
+├── sql/bank_db.sql # Database schema
 ├── README.md # Project documentation
-
 └── .gitignore
 
+---
 
+## 🗄️ Database Setup
 
-
+1. Open **MySQL Workbench / phpMyAdmin**  
+2. Run the SQL script  
+3. Update your DB credentials in `DBConnection.java`
 
 ---
 
+## ▶️ How to Run
 
-
-\## 🗄️ Database Setup  
-
-
-
-1\. Open \*\*MySQL Workbench / phpMyAdmin\*\*  
-
-2\. Run the SQL script:  
-
-3\. Update your DB credentials in `DBConnection.java`
-
-
+1. Install **JDK 11 or above**  
+2. Open the project in **IntelliJ IDEA**  
+3. Add MySQL Connector/J in the libraries  
+4. Run  
 
 ---
 
+## 👨‍💻 Author
 
-
-\## ▶️ How to Run  
-
-
-
-1\. Install \*\*JDK 11 or above\*\*  
-
-2\. Open the project in \*\*IntelliJ IDEA\*\*  
-
-3\. Add MySQL Connector/J in the libraries  
-
-4\. Run:  
-
-
-
-
+**SUMIT KAUSHAL**  
+BTech CSE, **3rd Semester**, Galgotias University  
 
 ---
-
-
-
-\## 👨‍💻 Author  
-
-
-
-\*\*SUMIT KAUSHAL\*\*  
-
-BTech CSE, \*\*3rd Semester\*\*, Galgotias University  
-
-
-
----
-
-
-
 
 
