@@ -10,14 +10,27 @@
 
 <!-- BADGES: perfectly centered, single horizontal row -->
 <p align="center">
-  <!-- single horizontal row, exact sequence: JAVA | 17 | UI | SWING | PLATFORM | DESKTOP -->
-  <img src="https://img.shields.io/badge/JAVA- -5A5A5A?style=flat-square&logo=java&logoColor=white" alt="JAVA" width="120" />
-  <img src="https://img.shields.io/badge/17-17-1E88E5?style=flat-square" alt="17" width="64" />
-  <img src="https://img.shields.io/badge/UI- -5A5A5A?style=flat-square" alt="UI" width="96" />
-  <img src="https://img.shields.io/badge/SWING- -9C27B0?style=flat-square" alt="SWING" width="120" />
-  <img src="https://img.shields.io/badge/PLATFORM- -5A5A5A?style=flat-square" alt="PLATFORM" width="140" />
-  <img src="https://img.shields.io/badge/DESKTOP- -2ECC40?style=flat-square" alt="DESKTOP" width="140" />
+
+  <!-- JAVA -->
+  <img src="https://img.shields.io/badge/JAVA-FFFFFF?style=for-the-badge&color=555555">
+
+  <!-- VERSION -->
+  <img src="https://img.shields.io/badge/17-FFFFFF?style=for-the-badge&color=0078D7">
+
+  <!-- UI -->
+  <img src="https://img.shields.io/badge/%F0%9F%94%8E%20UI-FFFFFF?style=for-the-badge&color=555555">
+
+  <!-- SWING -->
+  <img src="https://img.shields.io/badge/SWING-FFFFFF?style=for-the-badge&color=9B00B0">
+
+  <!-- PLATFORM -->
+  <img src="https://img.shields.io/badge/PLATFORM-FFFFFF?style=for-the-badge&color=555555">
+
+  <!-- DESKTOP -->
+  <img src="https://img.shields.io/badge/DESKTOP-FFFFFF?style=for-the-badge&color=32CD32">
+
 </p>
+
 
 <!-- Architecture image: centered in a fixed-width container so badges can align to its left exactly -->
 <div style="max-width:1000px; margin: 0 auto 6px auto; position:relative;">
