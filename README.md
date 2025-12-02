@@ -9,11 +9,13 @@
 <h1 align="center" style="margin: 10px 0 6px 0; font-size:44px; line-height:1.05;">OnlineBankingSystem</h1>
 
 <!-- BADGES: perfectly centered, single horizontal row -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-17-blue?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/UI-Swing-purple?style=for-the-badge" alt="UI">
-  <img src="https://img.shields.io/badge/Platform-Desktop-brightgreen?style=for-the-badge" alt="Platform">
-</p>
+<div align="center">
+  
+![Java](https://img.shields.io/badge/Java-17-blue?style=for-the-badge&logo=java&logoColor=white)
+![UI](https://img.shields.io/badge/UI-Swing-purple?style=for-the-badge)
+![Platform](https://img.shields.io/badge/Platform-Desktop-brightgreen?style=for-the-badge)
+
+</div>
 
 <!-- Architecture image: centered in a fixed-width container so badges can align to its left exactly -->
 <div style="max-width:1000px; margin: 0 auto 6px auto; position:relative;">
