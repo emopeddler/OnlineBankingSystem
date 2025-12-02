@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Online Banking System Banner" width="100%">
+  <img src="assets/banner.png" alt="Java Online Banking System Architecture" width="100%">
 </p>
+
+# OnlineBankingSystem
+
 
 # OnlineBankingSystem
 
