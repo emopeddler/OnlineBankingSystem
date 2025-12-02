@@ -32,9 +32,7 @@
 
 <p align="center">
   <img src="assets/demo.gif" alt="App
-<p align="center">
-  <img src="assets/demo.gif" alt="App Demo GIF" width="800">
-</p>
+    
 ---
 
 # 🌐 Overview
