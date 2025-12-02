@@ -1,28 +1,26 @@
 <p align="center">
-  <!-- small decorative top banner -->
-  <img src="assets/banner.png" alt="Project header banner" style="max-width:100%; width:900px; height:auto;">
+  <img src="assets/banner.png" width="100%" alt="Top Banner">
 </p>
 
 # OnlineBankingSystem
 
-<!-- ONE ROW of badges in exact sequence (centered) -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-17-blue?style=for-the-badge&logo=java" alt="Java" />
-  <img src="https://img.shields.io/badge/UI-Swing-purple?style=for-the-badge&logo=appsignal" alt="Swing" />
-  <img src="https://img.shields.io/badge/Platform-Desktop-success?style=for-the-badge&logo=windows" alt="Desktop" />
+  <img src="https://img.shields.io/badge/Java-17-blue?style=for-the-badge&logo=java" />
+  <img src="https://img.shields.io/badge/UI-Swing-purple?style=for-the-badge&logo=appsignal" />
+  <img src="https://img.shields.io/badge/Platform-Desktop-brightgreen?style=for-the-badge&logo=windows" />
 </p>
 
 ---
 
-<!-- architecture image centered, constrained width for readability -->
+<!-- ARCHITECTURE IMAGE CENTER -->
 <p align="center">
-  <img src="assets/banner1.png" alt="Architecture diagram" style="max-width:100%; width:1000px; height:auto;">
+  <img src="assets/banner1.png" width="90%" alt="Architecture Diagram">
 </p>
 
-<!-- MySQL badge CENTERED directly under architecture image (phone-like placement) -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</p>
+<!-- MYSQL BADGE LEFT-CENTER (THIS FIXES YOUR LAYOUT) -->
+<div style="width:90%; margin:auto; text-align:left;">
+  <img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+</div>
 
 ---
 
