@@ -8,28 +8,15 @@
 <!-- Title (big, exactly below banner) -->
 <h1 align="center" style="margin: 10px 0 6px 0; font-size:44px; line-height:1.05;">OnlineBankingSystem</h1>
 
-<!-- BADGES: perfectly centered, single horizontal row --
-<p align="center">
+<!-- BADGES: perfectly centered, single horizontal row -->
 
-  <!-- JAVA -->
-  <img src="https://img.shields.io/badge/JAVA-FFFFFF?style=for-the-badge&color=555555">
+<div align="center">
 
-  <!-- VERSION -->
-  <img src="https://img.shields.io/badge/17-FFFFFF?style=for-the-badge&color=0078D7">
+<img src="https://img.shields.io/badge/Java-17-blue?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+<img src="./ui-swing-badge.svg" alt="UI">
+<img src="https://img.shields.io/badge/Platform-Desktop-brightgreen?style=for-the-badge" alt="Platform">
 
-  <!-- UI -->
-  <img src="https://img.shields.io/badge/%F0%9F%94%8E%20UI-FFFFFF?style=for-the-badge&color=555555">
-
-  <!-- SWING -->
-  <img src="https://img.shields.io/badge/SWING-FFFFFF?style=for-the-badge&color=9B00B0">
-
-  <!-- PLATFORM -->
-  <img src="https://img.shields.io/badge/PLATFORM-FFFFFF?style=for-the-badge&color=555555">
-
-  <!-- DESKTOP -->
-  <img src="https://img.shields.io/badge/DESKTOP-FFFFFF?style=for-the-badge&color=32CD32">
-
-</p>
+</div>
 
 <!-- Architecture image: centered in a fixed-width container so badges can align to its left exactly -->
 <div style="max-width:1000px; margin: 0 auto 6px auto; position:relative;">
