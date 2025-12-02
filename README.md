@@ -2,8 +2,6 @@
   <img src="assets/banner.png" alt="Java Online Banking System Architecture" width="100%">
 </p>
 
-# OnlineBankingSystem
-
 
 # OnlineBankingSystem
 
@@ -13,8 +11,11 @@
 ---
 
 <p align="center">
-  <img src="assets/01_login.png" width="600">
+  <img src="assets/banner.png" alt="Java Online Banking System Architecture" width="100%">
 </p>
+
+# OnlineBankingSystem
+
 
 
 
