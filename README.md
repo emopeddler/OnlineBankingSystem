@@ -8,48 +8,28 @@
 <!-- Title (big, exactly below banner) -->
 <h1 align="center" style="margin: 10px 0 6px 0; font-size:44px; line-height:1.05;">OnlineBankingSystem</h1>
 
-<!-- BADGES: perfectly centered, single horizontal row -->
-<div align="center">
-  <span style="display:flex;gap:10px;align-items:center;justify-content:center;flex-wrap:nowrap;">
+<!-- BADGES: perfectly centered, single horizontal row --
+<p align="center">
 
-    <!-- JAVA -->
-    <span style="background:#5a5a5a;color:#fff;padding:7px 18px;border-radius:4px;font-weight:700;letter-spacing:2px;font-family:Segoe UI,Roboto,Arial;">
-      JAVA
-    </span>
+  <!-- JAVA -->
+  <img src="https://img.shields.io/badge/JAVA-FFFFFF?style=for-the-badge&color=555555">
 
-    <!-- 17 -->
-    <span style="background:#1680d6;color:#fff;padding:7px 15px;border-radius:4px;font-weight:700;font-family:Segoe UI,Roboto,Arial;">
-      17
-    </span>
+  <!-- VERSION -->
+  <img src="https://img.shields.io/badge/17-FFFFFF?style=for-the-badge&color=0078D7">
 
-    <!-- UI with EXACT icon from screenshot -->
-    <span style="background:#5a5a5a;color:#fff;padding:7px 16px;border-radius:4px;font-weight:700;display:flex;align-items:center;gap:8px;font-family:Segoe UI,Roboto,Arial;">
-      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-        <path d="M12 3c-1 2-4 4-4 6s2 4 4 4 4-2 4-4-3-4-4-6z"/>
-        <circle cx="8" cy="14" r="2"/>
-        <circle cx="16" cy="14" r="2"/>
-      </svg>
-      UI
-    </span>
+  <!-- UI -->
+  <img src="https://img.shields.io/badge/%F0%9F%94%8E%20UI-FFFFFF?style=for-the-badge&color=555555">
 
-    <!-- SWING -->
-    <span style="background:#9b00b3;color:#fff;padding:7px 18px;border-radius:4px;font-weight:700;font-family:Segoe UI,Roboto,Arial;">
-      SWING
-    </span>
+  <!-- SWING -->
+  <img src="https://img.shields.io/badge/SWING-FFFFFF?style=for-the-badge&color=9B00B0">
 
-    <!-- PLATFORM -->
-    <span style="background:#5a5a5a;color:#fff;padding:7px 20px;border-radius:4px;font-weight:700;font-family:Segoe UI,Roboto,Arial;">
-      PLATFORM
-    </span>
+  <!-- PLATFORM -->
+  <img src="https://img.shields.io/badge/PLATFORM-FFFFFF?style=for-the-badge&color=555555">
 
-    <!-- DESKTOP -->
-    <span style="background:#2ecc71;color:#fff;padding:7px 20px;border-radius:4px;font-weight:700;font-family:Segoe UI,Roboto,Arial;">
-      DESKTOP
-    </span>
+  <!-- DESKTOP -->
+  <img src="https://img.shields.io/badge/DESKTOP-FFFFFF?style=for-the-badge&color=32CD32">
 
-  </span>
-</div>
-
+</p>
 
 <!-- Architecture image: centered in a fixed-width container so badges can align to its left exactly -->
 <div style="max-width:1000px; margin: 0 auto 6px auto; position:relative;">
