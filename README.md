@@ -14,7 +14,6 @@
   <img src="assets/banner1.png" alt="Java Online Banking System Architecture" width="100%">
 </p>
 
-# OnlineBankingSystem
 
 
 
