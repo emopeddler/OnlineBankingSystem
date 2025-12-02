@@ -17,12 +17,6 @@
   <img src="https://img.shields.io/badge/PLATFORM-grey?style=for-the-badge" />
   <img src="https://img.shields.io/badge/DESKTOP-brightgreen?style=for-the-badge" />
 </p>
-
-  <!-- first row -->
-  <span style="display:inline-block; margin:0 6px;"><img src="https://img.shields.io/badge/JAVA-17-grey?style=for-the-badge" alt="JAVA"></span>
-  <span style="display:inline-block; margin:0 6px;"><img src="https://img.shields.io/badge/17-blue?style=for-the-badge" alt="17"></span>
-  <span style="display:inline-block; margin:0 6px;"><img src="https://img.shields.io/badge/UI-grey?style=for-the-badge" alt="UI"></span>
-  <span style="display:inline-block; margin:0 6px;"><img src="https://img.shields.io/badge/SWING-purple?style=for-the-badge" alt="Swing"></span>
   <!-- second row beneath the first, keeps the same centered alignment -->
   <div style="margin-top:8px;">
     <span style="display:inline-block; margin:0 8px;"><img src="https://img.shields.io/badge/PLATFORM-grey?style=for-the-badge" alt="Platform"></span>
